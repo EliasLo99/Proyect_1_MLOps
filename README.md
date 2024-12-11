@@ -53,5 +53,4 @@ La API ha sido desarrollada utilizando FastAPI y todas las funciones han sido im
 
 [Aquí]() se puede encontrar la API desplegada.
 
-# Conclución
 
